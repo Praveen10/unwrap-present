@@ -7,6 +7,7 @@ _This repository contains a fun and interactive animation where a clickable gift
 - **Click-to-Unwrap:** Clicking the gift reveals a hidden message: Happy 2025!.
 - **Festive Confetti Animation:** Colorful confetti bursts when the gift is unwrapped.
 - **Reset Functionality:** The gift automatically resets after a few seconds for repeated fun.
+---
 
 # 🛠 How It Works
 1. **Hover Animation:**
@@ -17,6 +18,7 @@ Clicking the gift hides the box, displays the message, and starts the confetti a
 Randomly generated confetti falls across the screen with varying colors and speeds.
 4. **Auto Reset:**
 After 6 seconds, the gift resets to its original state, ready to be unwrapped again.
+---
 
 # 🚀 How to Run
 1. **Clone the repository:**
@@ -24,3 +26,7 @@ After 6 seconds, the gift resets to its original state, ready to be unwrapped ag
 2. **Navigate to the project directory:**
 `cd unwrap-present`
 3. Open index.html in your browser to see the animation in action.
+---
+
+# 📄 License
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and share it!
